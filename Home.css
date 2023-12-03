@@ -1,0 +1,136 @@
+
+.solution_head{
+    margin: 150px;  
+}
+
+.center{
+    text-align: center;
+    justify-content: center;
+}
+.about{
+    background-color: white;
+    display:flex;
+    padding: 25px;
+    color: black;
+    margin-left: 35px;
+    margin-top: 25px;
+    font-size: medium;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.about:hover.text{
+    visibility: visible;
+}
+
+.about-hover:hover{
+    font-size: small;
+    display: none;
+
+}
+
+
+.about-text{
+    visibility: visible;
+}
+.about-text:hover{
+    visibility: visible;
+}
+
+.development{
+    margin: 150px;
+    padding: 60px;
+}
+
+.big_data{
+    background-image: url("https://static.wixstatic.com/media/cf7615_67146d68a2a74a2d9746d5bcb5a30069~mv2.jpg/v1/fill/w_710,h_303,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Taller%2520than%2520the%2520Trees_edited.jpg");
+    margin:20px;
+    margin-left: 150px;
+    margin-right: 750px;
+    padding: 60px;
+    font-size: x-small;
+    color: white;
+    
+}
+.web{
+    background-image: url("https://static.wixstatic.com/media/cf7615_801e04783c6840e1b3dae10708664d1d~mv2.jpg/v1/fill/w_710,h_303,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/web%252520designer_edited_edited.jpg");
+    margin-right:150px;
+    margin-left: 750px;
+    padding: 80px;
+    font-size: x-small;
+    color: white;
+    text-align: center;
+}
+.mobile{
+    background-image: url("https://static.wixstatic.com/media/cf7615_40e9458c9d87440590550706ac8cbd7e~mv2.jpg/v1/fill/w_710,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/I%2520remade%2520my%2520portfolio%2520yesterday%25.jpg");
+    margin:20px;
+    margin-left: 150px;
+    margin-right: 750px;
+    padding: 80px;
+    font-size: x-small;
+    color: white;
+}
+    
+.iot{
+    background-image: url("https://static.wixstatic.com/media/cf7615_74df66ff7ebb4cfcb6ba8f2bf601bc8c~mv2.jpg/v1/fill/w_710,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/The-future-of-networking-1024x553_edited.jpg");
+    margin-right:150px;
+    margin-left: 750px;
+    padding: 80px;
+    font-size: x-small;
+    color: white;
+    text-align: center;
+    
+}
+.machine_learning{
+    background-image: url("https://static.wixstatic.com/media/cf7615_c8ce8c75150b47cea0c82062e27f821c~mv2.jpg/v1/fill/w_713,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/07i06lZC498yVhWKT68B4FV-5_fit_scale_edit.jpg");
+    margin:20px;
+    margin-left: 150px;
+    margin-right: 750px;
+    padding: 60px;
+    font-size: x-small;
+    color: white;
+}
+    
+.ar{
+    background-image: url("https://static.wixstatic.com/media/cf7615_a25556e4075147e38f48c27d9e3c4432~mv2.jpg/v1/fill/w_711,h_300,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Virtual%2520Reality%2520Goggles_edited.jpg");
+    margin-right:150px;
+    margin-left: 750px;
+    padding: 80px;
+    font-size: x-small;
+    color: white;
+    text-align: center;
+}
+
+.container{
+    /*background-image: url("https://static.wixstatic.com/media/cf7615_931f9b4c0aa74684aba375c9604c9031f000.jpg/v1/fill/w_1519,h_739,al_c,q_85,usm_0.33_1.00_0.00,enc_auto/cf7615_931f9b4c0aa74684aba375c9604c9031f000.jpg");*/
+    background-color:#faaca8aa;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    color: white;
+    font-size: large;
+}
+
+
+.enterprise{
+    margin-bottom: 50px;
+    padding: 50px;
+    padding-top: 20px;
+}
+
+.development{
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 60px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.pic{
+    background-color: white;
+    border: 2px;
+    margin: 50px;
+    padding: 50px;
+}
