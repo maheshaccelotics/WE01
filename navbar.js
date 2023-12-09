@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className="link">
       <div className="head_content">
         <h1 className="main_head">Accelotics</h1>
-        <p className="software_passage">software solutions</p>
+        <p className="software_passage">Technologies</p>
       </div>
       <nav className="navbar">
         <ul>
